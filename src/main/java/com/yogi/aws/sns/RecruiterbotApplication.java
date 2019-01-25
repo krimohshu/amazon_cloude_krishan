@@ -22,7 +22,7 @@ public class RecruiterbotApplication implements CommandLineRunner {
     public void run(String... arg0) throws IOException, URISyntaxException {
 
         try {
-            this.publisherService.publish("{\"mobileno\": \"+447402522151\", \"message\": \"Hello from shyam.bye!\"}", PublisherService.TOPIC_INTERVIEWSTATUS);
+            this.publisherService.publish("{\"mobileno\": \"+447402522\", \"message\": \"Hello from shyam.bye!\"}", PublisherService.TOPIC_INTERVIEWSTATUS);
         } catch (TopicNotSupportedException e) {
             e.printStackTrace();
         }

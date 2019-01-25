@@ -16,8 +16,8 @@ public class S3AccessByJava {
     public static void main(String[] args) {
 
         AWSCredentials credentials = new BasicAWSCredentials(
-                "AKIAI6CA7U5HRNSAVKPA",
-                "2R3out3pUGQRHqfeuTk3HjHIpSFX0I6RFxJ2A7pc"
+                "anykey",
+                "anysecret"
         );
 
         AmazonS3 s3client = AmazonS3ClientBuilder
