@@ -1,4 +1,4 @@
-package lambdadynamodb;
+package com.yogi.aws.lambdadynamodb;
 
 import com.amazonaws.regions.Region;
 import com.amazonaws.regions.Regions;

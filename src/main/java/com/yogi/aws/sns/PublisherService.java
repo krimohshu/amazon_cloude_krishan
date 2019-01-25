@@ -1,4 +1,4 @@
-package sns;
+package com.yogi.aws.sns;
 
 public interface PublisherService {
     //
