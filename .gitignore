@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+.idea/
+.settings/
+target/
+node_modules
+
+.project
+.classpath
+ngis-endtoend-tests.iml
+# Do not delete or add anything below this line, otherwise the Automated Test Reporting Framework via Jenkisn will break
+/target
