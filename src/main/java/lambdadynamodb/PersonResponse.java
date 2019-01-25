@@ -1,4 +1,4 @@
-package com.Lambda.dynamodb.aws;
+package lambdadynamodb;
 
 public class PersonResponse {
     private String message;

@@ -1,4 +1,4 @@
-package com.S3.yogi.aws;
+package s3;
 
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.auth.AWSCredentials;

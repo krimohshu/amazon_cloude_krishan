@@ -1,4 +1,4 @@
-package com.sns.yogi.aws;
+package sns;
 
 import com.amazonaws.auth.BasicSessionCredentials;
 import com.amazonaws.services.securitytoken.AWSSecurityTokenServiceClient;

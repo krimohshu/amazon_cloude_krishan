@@ -1,4 +1,4 @@
-package com.Lambda.dynamodb.aws;
+package lambdadynamodb;
 
 public class PersonRequest {
     private String firstName;
